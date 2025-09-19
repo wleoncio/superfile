@@ -1,9 +1,9 @@
-# This is maintain by github.com/nonepork
+# This is maintained by github.com/nonepork
 # I know this is not really that "vim", but the control flow is different.
 # =================================================================================================
 # Global hotkeys (cannot conflict with other hotkeys)
 confirm = ['enter', '']
-quit = ['ctrl+c', ''] # also know as, theprimeagen troller
+quit = ['ctrl+c', ''] # also known as, theprimeagen troller
 cd_quit = ['Q', '']
 # movement
 list_up = ['k', '']
@@ -25,7 +25,7 @@ focus_on_metadata = ['ctrl+d', '']
 # create file/directory and rename
 file_panel_item_create = ['a', '']
 file_panel_item_rename = ['r', '']
-# file operations
+# file operationstheprimeagen troller
 copy_items = ['y', '']
 cut_items = ['x', '']
 paste_items = ['p', '']
